@@ -2,9 +2,9 @@
 ![alt image](https://img.shields.io/badge/Blender-2.79b-blue.svg)
 
 Modifier Combo makes combos of modifiers.
-# Doc
+## Doc
 https://fictheader.github.io/documents/tools/beast.html#modifier-combo
-# Acknowledgement
+## Acknowledgement
 https://fictheader.github.io/documents/tools/beast.html#acknowledgement
-# Developers
+## Developers
 https://fictheader.github.io/documents/tools/beast.html#developers
