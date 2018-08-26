@@ -3,8 +3,8 @@
 
 Modifier Combo makes combos of modifiers.
 # Doc
-https://fictheader.github.io/documents/for_users/beast.html#modifier-combo
+https://fictheader.github.io/documents/tools/beast.html#modifier-combo
 # Acknowledgement
-https://fictheader.github.io/documents/for_users/beast.html#acknowledgement
+https://fictheader.github.io/documents/tools/beast.html#acknowledgement
 # Developers
-https://fictheader.github.io/documents/for_users/beast.html#developers
+https://fictheader.github.io/documents/tools/beast.html#developers
