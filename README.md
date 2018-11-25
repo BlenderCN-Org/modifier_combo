@@ -1,4 +1,6 @@
-# Modifier Combo
+Modifier Combo
+--------------
+
 ![alt image](https://img.shields.io/badge/Blender-2.79b-blue.svg)
 
 Modifier Combo makes combos of modifiers.
